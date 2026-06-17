@@ -1,0 +1,18 @@
+service.js
+  h_eabc34dcaf7833 1-5
+view/index.html
+  h_eabc34dcaf7833 1-14
+package.json
+  h_eabc34dcaf7833 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6af6c59336ba43dcfef29d2de5ddd303fd57751f",
+  "prompts": {},
+  "humans": {
+    "h_eabc34dcaf7833": {
+      "author": "muhai <muhai.li@tuya.com>"
+    }
+  }
+}
