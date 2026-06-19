@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@aicupa/api@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.npmmirror.com/@aicupa/api/-/api-1.0.2.tgz#500f2b50659e633f38f8f1268fac44dee54e3812"
-  integrity sha512-V3Ls27Cp7c6PIoFJXQgM0wmgz9uooMgCfd2rDV7SlUhYZ65O0304OmwmfyvfpctAO28bTM4v7o0juowddBOIFA==
+"@aicupa/api@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@aicupa/api/-/api-1.0.4.tgz#828a3c66e801d81d39cb61ae99d0f4d2844252aa"
+  integrity sha512-LZO1KE56ZeIK8CBVoZSutqSWk4CWNNHtNyb6Xm/nTi+KI/JOh1gygH1L8dx6/c3aAjqFeNS/ANtfSAe7hnhFOA==
