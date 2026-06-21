@@ -1,0 +1,23 @@
+.agents/skills/todolist-knowledge/references/plugin-communication.md
+  s_823cf98a08d2ee::t_5540ed472790ca 1-464
+.agents/skills/todolist-knowledge/SKILL.md
+  s_823cf98a08d2ee::t_8954c94f417a43 3
+  s_823cf98a08d2ee::t_2960838f65a66d 17
+  s_823cf98a08d2ee::t_995b749310f570 164-220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b1027680db1518b2350a93de4b3e33015b8eb56e",
+  "prompts": {},
+  "sessions": {
+    "s_823cf98a08d2ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "66faf094-1fb8-492d-82d9-61951f516ddd",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "muhai <muhai.li@tuya.com>"
+    }
+  }
+}
